@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.1eeb6fc1.css",
+    "main.css": "/portfolio-react-app/static/css/main.6e1b20aa.css",
     "main.js": "/portfolio-react-app/static/js/main.a612358b.js",
     "static/media/hacker_news.png": "/portfolio-react-app/static/media/hacker_news.984c18ebae0ed624f2fe.png",
     "static/media/twitter.png": "/portfolio-react-app/static/media/twitter.bf3139c3c48e507fc527.png",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio-react-app/index.html",
-    "main.1eeb6fc1.css.map": "/portfolio-react-app/static/css/main.1eeb6fc1.css.map",
+    "main.6e1b20aa.css.map": "/portfolio-react-app/static/css/main.6e1b20aa.css.map",
     "main.a612358b.js.map": "/portfolio-react-app/static/js/main.a612358b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eeb6fc1.css",
+    "static/css/main.6e1b20aa.css",
     "static/js/main.a612358b.js"
   ]
 }
